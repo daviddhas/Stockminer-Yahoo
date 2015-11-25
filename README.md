@@ -10,12 +10,19 @@ The library handles fetching, parsing, and cleaning of CSV data and returns JSON
     $ npm install yahoo-finance
 
 
+## Load the packages
+
+    $npm install
+
 ## Usage
 
 MINE all stock prices
 
 
-This can be done by running the Code/callback/run.sh
+
+This can be done by running the
+
+    $ sh Code/callback/run.sh
 
 
 
