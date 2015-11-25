@@ -2,12 +2,10 @@
   "name": "yahoo-finance",
   "description": "Yahoo Finance historical quotes and snapshot data downloader written in Node.js",
   "version": "0.2.12",
-  "license": "MIT",
   "author": {
-    "name": "Pilwon Huh",
-    "email": "pilwon@gmail.com"
+    "name": "David",
+    "email": "david.dhas1@gmail.com"
   },
-  "homepage": "https://github.com/pilwon/node-yahoo-finance",
   "repository": {
     "type": "git",
     "url": "git://github.com/pilwon/node-yahoo-finance.git"
